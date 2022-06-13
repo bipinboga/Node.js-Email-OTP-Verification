@@ -18,6 +18,8 @@
     "mongoose": "^6.3.5",
     "nodemailer": "^6.7.5",
     "nodemon": "^2.0.16",
-    "otp-generator": "^4.0.0"
+    "otp-generator": "^4.0.0",
+    "qrcode": "^1.5.0",
+    "speakeasy": "^2.0.0"
   }
 }
